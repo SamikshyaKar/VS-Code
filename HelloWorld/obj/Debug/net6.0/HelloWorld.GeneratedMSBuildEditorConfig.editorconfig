@@ -11,41 +11,41 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = HelloWorld
 build_property.RootNamespace = HelloWorld
-build_property.ProjectDir = d:\MyProjectsANDprogrammes\VS Code\HelloWorld\
+build_property.ProjectDir = D:\MyProjectsANDprogrammes\VS Code\helloworld\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = d:\MyProjectsANDprogrammes\VS Code\HelloWorld
+build_property.MSBuildProjectDirectory = D:\MyProjectsANDprogrammes\VS Code\helloworld
 build_property._RazorSourceGeneratorDebug = 
 
-[d:/MyProjectsANDprogrammes/VS Code/HelloWorld/App.razor]
+[D:/MyProjectsANDprogrammes/VS Code/helloworld/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/MyProjectsANDprogrammes/VS Code/HelloWorld/Pages/Counter.razor]
+[D:/MyProjectsANDprogrammes/VS Code/helloworld/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/MyProjectsANDprogrammes/VS Code/HelloWorld/Pages/FetchData.razor]
+[D:/MyProjectsANDprogrammes/VS Code/helloworld/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/MyProjectsANDprogrammes/VS Code/HelloWorld/Pages/Index.razor]
+[D:/MyProjectsANDprogrammes/VS Code/helloworld/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/MyProjectsANDprogrammes/VS Code/HelloWorld/Shared/SurveyPrompt.razor]
+[D:/MyProjectsANDprogrammes/VS Code/helloworld/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/MyProjectsANDprogrammes/VS Code/HelloWorld/_Imports.razor]
+[D:/MyProjectsANDprogrammes/VS Code/helloworld/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/MyProjectsANDprogrammes/VS Code/HelloWorld/Shared/MainLayout.razor]
+[D:/MyProjectsANDprogrammes/VS Code/helloworld/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-rjsnmbmqdn
 
-[d:/MyProjectsANDprogrammes/VS Code/HelloWorld/Shared/NavMenu.razor]
+[D:/MyProjectsANDprogrammes/VS Code/helloworld/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-v4ipw2o6j7

@@ -1,5 +1,5 @@
 {
-  "FilePath": "d:\\MyProjectsANDprogrammes\\VS Code\\HelloWorld\\HelloWorld.csproj",
+  "FilePath": "d:\\MyProjectsANDprogrammes\\VS Code\\helloworld\\HelloWorld.csproj",
   "Configuration": {
     "ConfigurationName": "Default",
     "LanguageVersion": "6.0",
@@ -13639,42 +13639,42 @@
   "RootNamespace": "HelloWorld",
   "Documents": [
     {
-      "FilePath": "d:\\MyProjectsANDprogrammes\\VS Code\\HelloWorld\\Pages\\Index.razor",
+      "FilePath": "d:\\MyProjectsANDprogrammes\\VS Code\\helloworld\\Pages\\Index.razor",
       "TargetPath": "Pages\\Index.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "d:\\MyProjectsANDprogrammes\\VS Code\\HelloWorld\\Shared\\MainLayout.razor",
+      "FilePath": "d:\\MyProjectsANDprogrammes\\VS Code\\helloworld\\Shared\\MainLayout.razor",
       "TargetPath": "Shared\\MainLayout.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "d:\\MyProjectsANDprogrammes\\VS Code\\HelloWorld\\Pages\\FetchData.razor",
+      "FilePath": "d:\\MyProjectsANDprogrammes\\VS Code\\helloworld\\Pages\\FetchData.razor",
       "TargetPath": "Pages\\FetchData.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "d:\\MyProjectsANDprogrammes\\VS Code\\HelloWorld\\Shared\\SurveyPrompt.razor",
+      "FilePath": "d:\\MyProjectsANDprogrammes\\VS Code\\helloworld\\Shared\\SurveyPrompt.razor",
       "TargetPath": "Shared\\SurveyPrompt.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "d:\\MyProjectsANDprogrammes\\VS Code\\HelloWorld\\Pages\\Counter.razor",
+      "FilePath": "d:\\MyProjectsANDprogrammes\\VS Code\\helloworld\\Pages\\Counter.razor",
       "TargetPath": "Pages\\Counter.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "d:\\MyProjectsANDprogrammes\\VS Code\\HelloWorld\\App.razor",
+      "FilePath": "d:\\MyProjectsANDprogrammes\\VS Code\\helloworld\\App.razor",
       "TargetPath": "App.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "d:\\MyProjectsANDprogrammes\\VS Code\\HelloWorld\\_Imports.razor",
+      "FilePath": "d:\\MyProjectsANDprogrammes\\VS Code\\helloworld\\_Imports.razor",
       "TargetPath": "_Imports.razor",
       "FileKind": "componentImport"
     },
     {
-      "FilePath": "d:\\MyProjectsANDprogrammes\\VS Code\\HelloWorld\\Shared\\NavMenu.razor",
+      "FilePath": "d:\\MyProjectsANDprogrammes\\VS Code\\helloworld\\Shared\\NavMenu.razor",
       "TargetPath": "Shared\\NavMenu.razor",
       "FileKind": "component"
     }

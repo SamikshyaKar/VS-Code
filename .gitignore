@@ -3,3 +3,5 @@
 /MyfirstBlazorwithVSCODE/bin
 /HelloWorld/bin
 .vscode
+/HelloWorld/bin/Debug/net6.0
+/MyfirstBlazorwithVSCODE/bin/Debug/net6.0
